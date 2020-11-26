@@ -1,0 +1,17 @@
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\bin\Release\DTO_Types_Evoday.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\bin\Release\DTO_Types_Evoday.pdb
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\bin\Release\Newtonsoft.Json.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\bin\Release\Newtonsoft.Json.xml
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\obj\Release\DTO_Types_Evoday.csprojAssemblyReference.cache
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\obj\Release\DTO_Types_Evoday.csproj.CopyComplete
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\obj\Release\DTO_Types_Evoday.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\obj\Release\DTO_Types_Evoday.pdb
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\bin\Release\DTO_Types_Evoday.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\bin\Release\DTO_Types_Evoday.pdb
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\bin\Release\Newtonsoft.Json.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\bin\Release\Newtonsoft.Json.xml
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\obj\Release\DTO_Types_Evoday.csprojAssemblyReference.cache
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\obj\Release\DTO_Types_Evoday.csproj.CoreCompileInputs.cache
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\obj\Release\DTO_Types_Evoday.csproj.CopyComplete
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\obj\Release\DTO_Types_Evoday.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\obj\Release\DTO_Types_Evoday.pdb

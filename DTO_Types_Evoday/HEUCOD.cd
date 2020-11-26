@@ -1,0 +1,620 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OpenCare.EVODAY.BasicEvent" Collapsed="true">
+    <Position X="77" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAACMCAAAQAkgAQIIRIKwABIIoIkUAAVQAAggAECAIQ=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Patient" Collapsed="true">
+    <Position X="156" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAQAACQAAAAAQAAQAAAAAAAAAQAAARAAgAAQ=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.AlertNotification" Collapsed="true">
+    <Position X="156" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEgAAAEAIAAAQAAAAIAAAAAAAAgEAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Serialize" Collapsed="true">
+    <Position X="157.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Converter" Collapsed="true">
+    <Position X="157.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.EDL" Collapsed="true">
+    <Position X="78.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.BedOccupancyEvent" Collapsed="true">
+    <Position X="81.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.BathroomOccupancyEvent" Collapsed="true">
+    <Position X="86" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.ToiletOccupancy" Collapsed="true">
+    <Position X="90.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.ChairOccupancyEvent" Collapsed="true">
+    <Position X="95" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.ToothBrushingSession" Collapsed="true">
+    <Position X="59" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.RoomMovementEvent" Collapsed="true">
+    <Position X="63.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.CouchOccupancyEvent" Collapsed="true">
+    <Position X="68" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.HandWashingEvent" Collapsed="true">
+    <Position X="72.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.SoapDispensnig" Collapsed="true">
+    <Position X="77" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.TelevisionUseEvent" Collapsed="true">
+    <Position X="79.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.ApplianceUseEvent" Collapsed="true">
+    <Position X="83.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.FallDetectedEvent" Collapsed="true">
+    <Position X="88.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.WalkingDetected" Collapsed="true">
+    <Position X="92.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.EnterHomeEvent" Collapsed="true">
+    <Position X="97.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.LeaveHomeEvent" Collapsed="true">
+    <Position X="61.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.LighingtChangedEvent" Collapsed="true">
+    <Position X="65.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.LighingtSettingChangedEvent" Collapsed="true">
+    <Position X="70.25" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.EDL.UserIsHomeEvent" Collapsed="true">
+    <Position X="74.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.ADL.ADL" Collapsed="true">
+    <Position X="43.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.ADL.Sleeping" Collapsed="true">
+    <Position X="41" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.ADL.Resting" Collapsed="true">
+    <Position X="45.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.ADL.Toileting" Collapsed="true">
+    <Position X="50" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.ADL.Bathing" Collapsed="true">
+    <Position X="54.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.ADL.Hygiene" Collapsed="true">
+    <Position X="56.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.ADL.GroomingHair" Collapsed="true">
+    <Position X="29.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.ADL.Brushing" Collapsed="true">
+    <Position X="32" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.ADL.Eating" Collapsed="true">
+    <Position X="34.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.ADL.Dressing" Collapsed="true">
+    <Position X="36.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.ADL.Transferring" Collapsed="true">
+    <Position X="38.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.ADL.Socializing" Collapsed="true">
+    <Position X="43.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.ADL.WatchingTV" Collapsed="true">
+    <Position X="47.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.ADL.Exericising" Collapsed="true">
+    <Position X="52.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Notifications.Notifications" Collapsed="true">
+    <Position X="141.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Notifications.HandwashingFollowingToiletingComplete" Collapsed="true">
+    <Position X="152.25" Y="3.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Notifications.RememberSoapAndHandwashAfterToilet" Collapsed="true">
+    <Position X="128.75" Y="3.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Notifications.RememberSoapBeforeHandwashAfterToilet" Collapsed="true">
+    <Position X="133.25" Y="3.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Notifications.RememberWashingHandsAsLastTask" Collapsed="true">
+    <Position X="136.75" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Notifications.HandwashingAfterToiletForgotten" Collapsed="true">
+    <Position X="139.25" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Notifications.PossibleFallDetected" Collapsed="true">
+    <Position X="142" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Notifications.LowActivityWarning" Collapsed="true">
+    <Position X="144.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Notifications.ReplaceBatteries" Collapsed="true">
+    <Position X="148.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Notifications.SuboptimalSleep" Collapsed="true">
+    <Position X="146.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Notifications.SupoptimalBrushing" Collapsed="true">
+    <Position X="150.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Notifications.GeneralNotification" Collapsed="true">
+    <Position X="155.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.Notifications.MovementInHomeWhileUserNotHome" Collapsed="true">
+    <Position X="130.5" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.IADL.IADL" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.AE.AE" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.AE.FallDetected" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.AE.BathroomFall" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.AE.LowGeneralActivityLevel" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.AE.LowHydrationLevel" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.AE.SparseToiletUse" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.AE.FrequentToiletUse" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.AE.MissedToothbrushing" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.AE.MissedMedication" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.AE.MissedHygiene" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.TechnicalEvent.TechnicalEvent" Collapsed="true">
+    <Position X="25.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.TechnicalEvent.HeartBeat" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.TechnicalEvent.BatteryPowerLOW" Collapsed="true">
+    <Position X="25.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.TechnicalEvent.DeviceNeedsMaintenance" Collapsed="true">
+    <Position X="27.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.DeviceUsageEvent.DeviceUsageEvent" Collapsed="true">
+    <Position X="108.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.DeviceUsageEvent.AppliancenDeviceUsage" Collapsed="true">
+    <Position X="113" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.DeviceUsageEvent.TVUsage" Collapsed="true">
+    <Position X="115.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.DeviceUsageEvent.RadioUsage" Collapsed="true">
+    <Position X="117.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.DeviceUsageEvent.ComputerUsage" Collapsed="true">
+    <Position X="99.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.DeviceUsageEvent.PhonerUsage" Collapsed="true">
+    <Position X="101.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.DeviceUsageEvent.SmartPhonerUsage" Collapsed="true">
+    <Position X="104" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.DeviceUsageEvent.RehabiliationDeviceUsage" Collapsed="true">
+    <Position X="106.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.DeviceUsageEvent.CookingDeviceUsage" Collapsed="true">
+    <Position X="108.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.DeviceUsageEvent.FridgeUsage" Collapsed="true">
+    <Position X="110.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.MedicalObservations.MedicalObservations" Collapsed="true">
+    <Position X="123.25" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.MedicalObservations.Observation" Collapsed="true">
+    <Position X="123.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.MedicalObservations.BloodPressureMeasurement" Collapsed="true">
+    <Position X="124.25" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.MedicalObservations.WeightMeasurement" Collapsed="true">
+    <Position X="126.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.MedicalObservations.SaturationtMeasurement" Collapsed="true">
+    <Position X="119.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.MedicalObservations.TemperatureMeasurement" Collapsed="true">
+    <Position X="122" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.IADL.Shopping" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.IADL.Housekeeping" Collapsed="true">
+    <Position X="120" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.IADL.ManagingMoney" Collapsed="true">
+    <Position X="126.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.IADL.FoodPreparation" Collapsed="true">
+    <Position X="157.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.IADL.Telephone" Collapsed="true" HideInheritanceLine="true">
+    <Position X="160.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenCare.EVODAY.IADL.Transportation" Collapsed="true" HideInheritanceLine="true">
+    <Position X="162" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

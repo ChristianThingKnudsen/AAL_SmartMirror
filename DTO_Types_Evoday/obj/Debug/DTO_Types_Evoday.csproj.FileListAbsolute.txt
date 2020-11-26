@@ -1,0 +1,24 @@
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\obj\Debug\DTO_Types_Evoday.csprojAssemblyReference.cache
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\bin\Debug\DTO_Types_Evoday.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\bin\Debug\DTO_Types_Evoday.pdb
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\obj\Debug\DTO_Types_Evoday.csproj.CopyComplete
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\obj\Debug\DTO_Types_Evoday.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\EventsOfDailyLivingSimulatorAndClassifier\DTO_Types_Evoday\obj\Debug\DTO_Types_Evoday.pdb
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\bin\Debug\DTO_Types_Evoday.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\bin\Debug\DTO_Types_Evoday.pdb
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\obj\Debug\DTO_Types_Evoday.csproj.CoreCompileInputs.cache
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\obj\Debug\DTO_Types_Evoday.csproj.CopyComplete
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\obj\Debug\DTO_Types_Evoday.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\DTO_Types_Evoday\obj\Debug\DTO_Types_Evoday.pdb
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\DTO_Types_Evoday\bin\Debug\DTO_Types_Evoday.dll
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\DTO_Types_Evoday\bin\Debug\DTO_Types_Evoday.pdb
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\DTO_Types_Evoday\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\DTO_Types_Evoday\obj\Debug\DTO_Types_Evoday.csprojAssemblyReference.cache
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\DTO_Types_Evoday\obj\Debug\DTO_Types_Evoday.csproj.CoreCompileInputs.cache
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\DTO_Types_Evoday\obj\Debug\DTO_Types_Evoday.csproj.CopyComplete
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\DTO_Types_Evoday\obj\Debug\DTO_Types_Evoday.dll
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\DTO_Types_Evoday\obj\Debug\DTO_Types_Evoday.pdb

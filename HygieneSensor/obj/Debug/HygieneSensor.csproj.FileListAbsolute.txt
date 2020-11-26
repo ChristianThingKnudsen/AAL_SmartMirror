@@ -1,0 +1,54 @@
+C:\Users\sw\OneDrive\Dokumenter\Kurser\AAL\Tutorials\AAL Tutorial 6\Source\bin\Debug\dll\x86\phidget22.dll
+C:\Users\sw\OneDrive\Dokumenter\Kurser\AAL\Tutorials\AAL Tutorial 6\Source\bin\Debug\dll\x64\phidget22.dll
+C:\Users\sw\OneDrive\Dokumenter\Kurser\AAL\Tutorials\AAL Tutorial 6\Source\bin\Debug\Phidget_Example.exe.config
+C:\Users\sw\OneDrive\Dokumenter\Kurser\AAL\Tutorials\AAL Tutorial 6\Source\bin\Debug\Phidget_Example.exe
+C:\Users\sw\OneDrive\Dokumenter\Kurser\AAL\Tutorials\AAL Tutorial 6\Source\bin\Debug\Phidget_Example.pdb
+C:\Users\sw\OneDrive\Dokumenter\Kurser\AAL\Tutorials\AAL Tutorial 6\Source\bin\Debug\Phidget22.NET.dll
+C:\Users\sw\OneDrive\Dokumenter\Kurser\AAL\Tutorials\AAL Tutorial 6\Source\bin\Debug\Phidget22.NET.pdb
+C:\Users\sw\OneDrive\Dokumenter\Kurser\AAL\Tutorials\AAL Tutorial 6\Source\bin\Debug\Phidget22.NET.xml
+C:\Users\sw\OneDrive\Dokumenter\Kurser\AAL\Tutorials\AAL Tutorial 6\Source\obj\Debug\HygieneSensor.csprojAssemblyReference.cache
+C:\Users\sw\OneDrive\Dokumenter\Kurser\AAL\Tutorials\AAL Tutorial 6\Source\obj\Debug\HygieneSensor.csproj.CoreCompileInputs.cache
+C:\Users\sw\OneDrive\Dokumenter\Kurser\AAL\Tutorials\AAL Tutorial 6\Source\obj\Debug\HygieneSensor.csproj.CopyComplete
+C:\Users\sw\OneDrive\Dokumenter\Kurser\AAL\Tutorials\AAL Tutorial 6\Source\obj\Debug\Phidget_Example.exe
+C:\Users\sw\OneDrive\Dokumenter\Kurser\AAL\Tutorials\AAL Tutorial 6\Source\obj\Debug\Phidget_Example.pdb
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\obj\Debug\HygieneSensor.csprojAssemblyReference.cache
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\obj\Debug\HygieneSensor.csproj.CoreCompileInputs.cache
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\dll\x86\phidget22.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\dll\x64\phidget22.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\Setting.Designer.cs
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\Setting.settings
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\Phidget_Example.exe.config
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\Phidget_Example.exe
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\Phidget_Example.pdb
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\DTO_Types_Evoday.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\M2Mqtt.Net.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\Phidget22.NET.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\DTO_Types_Evoday.pdb
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\Phidget22.NET.pdb
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\Phidget22.NET.xml
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\obj\Debug\HygieneSensor.csproj.CopyComplete
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\obj\Debug\Phidget_Example.exe
+C:\Users\sw\OneDrive\Dokumenter\Dev\SourceTree\opencareevoday\HygieneSensor\obj\Debug\Phidget_Example.pdb
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\Setting.Designer.cs
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\dll\x86\phidget22.dll
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\dll\x64\phidget22.dll
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\Setting.settings
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\Phidget_Example.exe.config
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\Phidget_Example.exe
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\Phidget_Example.pdb
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\DTO_Types_Evoday.dll
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\Phidget22.NET.dll
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\DTO_Types_Evoday.pdb
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\Phidget22.NET.pdb
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\Phidget22.NET.xml
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\obj\Debug\HygieneSensor.csprojAssemblyReference.cache
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\obj\Debug\HygieneSensor.csproj.CoreCompileInputs.cache
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\obj\Debug\HygieneSensor.csproj.CopyComplete
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\obj\Debug\Phidget_Example.exe
+C:\Users\ct-10\OneDrive\Skrivebord\AAL Tutorial 7\AAL Tutorial 7\Source\HygieneSensor\obj\Debug\Phidget_Example.pdb
