@@ -191,6 +191,9 @@ namespace ConsoleApplication
 					Console.WriteLine("Handwashing being performed");
 					lastHandWashEventSent = DateTime.Now;
 					isWashingHands = true;
+					SendHandwashingEvent();
+					Console.WriteLine("Hand wash event sent");
+
 				}
 
 			}
@@ -200,8 +203,8 @@ namespace ConsoleApplication
 				isWashingHands = false;
 				Console.WriteLine("Handwash stopped! Lasted "+ (int)(timePassed) +" seconds");
 				if (timePassed > 5) { 
-					SendHandwashingEvent();
-					Console.WriteLine("Hand wash event sent");
+					// SendHandwashingEvent();
+					// Console.WriteLine("Hand wash event sent");
 				}
 			}
 
