@@ -27,7 +27,7 @@
       <Value Profile="(Default)">1000</Value>
     </Setting>
     <Setting Name="HandwashDistance" Type="System.Int32" Scope="Application">
-      <Value Profile="(Default)">800</Value>
+      <Value Profile="(Default)">400</Value>
     </Setting>
   </Settings>
 </SettingsFile>
